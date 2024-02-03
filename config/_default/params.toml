@@ -19,7 +19,7 @@ fingerprintAlgorithm = "sha256"
 
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
-  logo = "img/trampolines-for-kids.jpg"
+  logo = "img/trampolines-for-kids-logo.png"
   # logoDark = "img/dark-logo.jpg"
   showTitle = false
 

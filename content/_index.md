@@ -1,6 +1,6 @@
 ---
 title: "Trampolines for Kids"
-description: "Homepage description"
+description: ""
 ---
 
 Welcome to ![Trampolines for Kids](https://trampolinesForKids.co.uk), where the fun never stops! We're thrilled to be your go-to destination for all things bouncing and boundless joy. As parents, we know the importance of keeping our little ones active and entertained, and that's why we've curated a selection of top-quality trampolines that are as safe as they are exciting. 

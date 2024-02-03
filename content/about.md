@@ -5,7 +5,7 @@ date: "2024-01-11"
 author: "Trampolines for Kids"
 ---
 
-![kid-jumping](/img/kid-jumping.png)
+![kid-jumping](/kid-jumping.png)
 
 Welcome to my world of Trampolines for Kids. I'm Dakota, the founder and the driving force behind this project.
 
