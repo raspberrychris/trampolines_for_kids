@@ -7,7 +7,9 @@ menu: main
 url: /trampolines-for-kids/
 ---
 
-Welcome to TrampolinesForKids.co.uk, where the fun never stops! We're thrilled to be your go-to destination for all things bouncing and boundless joy. As parents, we know the importance of keeping our little ones active and entertained, and that's why we've curated a selection of top-quality trampolines that are as safe as they are exciting. Whether you're looking to bring home a mini trampoline for your tiny tot or a larger one for your adventurous pre-teen, we've got you covered. Let's turn your backyard into a haven of laughter and playtime – because here, every jump is a leap into endless fun!
+Welcome to TrampolinesForKids.co.uk, where the fun never stops! We're thrilled to be your go-to destination for all things bouncing and boundless joy. As parents, we know the importance of keeping our little ones active and entertained, and that's why we've curated a selection of top-quality trampolines that are as safe as they are exciting. 
+
+Whether you're looking to bring home a mini trampoline for your tiny tot or a larger one for your adventurous pre-teen, we've got you covered. Let's turn your backyard into a haven of laughter and playtime – because here, every jump is a leap into endless fun!
 
 ![trampoline-boy](/trampoline-boy.png)
 
