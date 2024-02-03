@@ -7,7 +7,7 @@
 {{ $img := .Page.Resources.GetMatch $file }}
 {{- if and (not $img) .Page.File }}
   {{ $path := path.Join .Page.File.Dir $file }}
-  {{ $img = resources.Get $path }}
+  {{ $img = resources.GetMatch $path }}
 {{ end -}}
 
 {{/* https://github.com/gohugoio/hugo/pull/10666 */}}
