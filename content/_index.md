@@ -1,8 +1,6 @@
 ---
 title: "Trampolines for Kids"
 description: "Homepage description"
-date: "2024-01-11"
-author: "Trampolines for Kids"
 ---
 
 Welcome to ![Trampolines for Kids](https://trampolinesForKids.co.uk), where the fun never stops! We're thrilled to be your go-to destination for all things bouncing and boundless joy. As parents, we know the importance of keeping our little ones active and entertained, and that's why we've curated a selection of top-quality trampolines that are as safe as they are exciting. 
@@ -10,6 +8,7 @@ Welcome to ![Trampolines for Kids](https://trampolinesForKids.co.uk), where the 
 Whether you're looking to bring home a mini trampoline for your tiny tot or a larger one for your adventurous pre-teen, we've got you covered. Let's turn your backyard into a haven of laughter and playtime – because here, every jump is a leap into endless fun!
 
 ![trampoline-boy](/trampoline-boy.png)
+
 
 ## [Jumptastic 14Ft Trampoline Tent  2*10M Ball String](/Jumptastic-14Ft-Trampoline-Tent--2*10M-Ball-String)
 [![Jumptastic-14Ft-Trampoline-Tent--2*10M-Ball-String](<https://m.media-amazon.com/images/I/61SjlNB-u4L._AC_UL320_.jpg>)](<https://www.amazon.co.uk/JumpTastic-14Ft-Trampoline-Tent-Straight/dp/B092ZN1BXD/ ?tag=trampolinesforkids-21>)[![Jumptastic-14Ft-Trampoline-Tent--2*10M-Ball-String](<https://dabuttonfactory.com/button.png?t=CHECK+AMAZON&f=Noto+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=4bd42f>)](<https://www.amazon.co.uk/JumpTastic-14Ft-Trampoline-Tent-Straight/dp/B092ZN1BXD/ ?tag=trampolinesforkids-21>)
