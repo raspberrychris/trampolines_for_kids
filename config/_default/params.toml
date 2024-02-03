@@ -12,6 +12,7 @@ autoSwitchAppearance = false
 enableSearch = false
 enableCodeCopy = false
 enableImageLazyLoading = false
+enableImageWebp = true
 
 # robots = ""
 fingerprintAlgorithm = "sha256"
