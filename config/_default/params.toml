@@ -18,7 +18,7 @@ fingerprintAlgorithm = "sha256"
 
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
-  logo = "img/capybara-zone.png"
+  logo = "img/trampolines-for-kids.jpg"
   # logoDark = "img/dark-logo.jpg"
   showTitle = false
 
