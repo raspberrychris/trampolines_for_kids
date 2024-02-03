@@ -7,6 +7,8 @@ menu: "main"
 url: "/about/"
 ---
 
+![kid-jumping](/kid-jumping.png)
+
 Welcome to my world of Trampolines for Kids. I'm Dakota, the founder and the driving force behind this project.
 
 My adventure with Trampolines for Kids began not as a profession, but as a personal quest. It was a blend of curiosity and passion that led me down this path.
