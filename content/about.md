@@ -7,7 +7,6 @@ menu: "main"
 url: "/about/"
 ---
 
-![kid-jumping](/kid-jumping.png)
 
 Welcome to my world of Trampolines for Kids. I'm Dakota, the founder and the driving force behind this project.
 
