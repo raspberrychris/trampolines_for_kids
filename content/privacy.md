@@ -3,8 +3,6 @@ title: "Privacy Policy"
 description: "Privacy policy description"
 date: "2024-01-11"
 author: "Trampolines for Kids"
-menu: "main"
-url: "/privacy-policy/"
 ---
 
 # Privacy Policy for Trampolines For Kids
